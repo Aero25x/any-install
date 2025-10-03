@@ -148,6 +148,14 @@ Test from client:
 curl ifconfig.me
 ```
 
+
+---
+You could easily set up it also via GUI client on all devices
+<img width="1273" height="840" alt="image" src="https://github.com/user-attachments/assets/8a4b7326-5c71-4dca-be72-34051d3c131d" />
+
+
+
+
 You're done! Your WireGuard VPN is now running.
 
 [![Join our Telegram RU](https://img.shields.io/badge/Telegram-RU-03A500?style=for-the-badge&logo=telegram&logoColor=white&labelColor=blue&color=red)](https://t.me/hidden_coding)
