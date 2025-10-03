@@ -152,6 +152,7 @@ curl ifconfig.me
 ---
 You could easily set up it also via GUI client on all devices
 <img width="1273" height="840" alt="image" src="https://github.com/user-attachments/assets/8a4b7326-5c71-4dca-be72-34051d3c131d" />
+<img width="860" height="645" alt="image" src="https://github.com/user-attachments/assets/e20e9c94-f359-42a5-8d6d-14f8aa64d177" />
 
 
 
